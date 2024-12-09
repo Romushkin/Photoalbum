@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Photoalbum</string>
+    <string name="title">Вас приветствует альбом любимых фотографий</string>
+    <string name="start">Начать просмотр</string>
+    <string name="thanks">Спасибо за просмотр! До свидания</string>
+    <string name="close">Закрыть приложение</string>
+</resources>
